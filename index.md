@@ -11,7 +11,7 @@ My name is Christopher Lerum. This is my first year at UCSD after transferring f
 ## Quote and stuff
 
 After the class, I felt like this `quote` was appropriate
-> "We are all pawns, controlled by something greater: Memes. The DNA of the soul. They shape our will. They are the culture." Monsoon from *Metal Gear Rising: Revengance*
+> "We are all pawns, controlled by something greater: Memes. The DNA of the soul. They shape our will. They are the culture." Monsoon from *Metal Gear Rising: Revengance* [gameplay with the quote](https://youtu.be/8TDC9s-Kt-8?si=XYk1zp7RtUXiLFTZ&t=3)
 
 
 Headings
