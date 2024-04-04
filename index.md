@@ -14,12 +14,12 @@ After the class, I felt like this `quote` was appropriate
 > "We are all pawns, controlled by something greater: Memes. The DNA of the soul. They shape our will. They are the culture." Monsoon from *Metal Gear Rising: Revengance* [gameplay with the quote](https://youtu.be/8TDC9s-Kt-8?si=XYk1zp7RtUXiLFTZ&t=3)
 
 
-Headings
-Styling text
-Quoting text
-Quoting code
-External Links
-Section links
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-Ordered and Unordered Lists
-Task lists
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [ ] Task lists
