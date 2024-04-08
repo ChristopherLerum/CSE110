@@ -6,7 +6,7 @@ My name is Christopher Lerum. This is my first year at UCSD after transferring f
 
 ## This is me
 
--picture
+![image](CSE110-Me.jpg)
 
 ## Quote and stuff
 
